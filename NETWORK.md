@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Fraud Prevention
 
-**ai-fraud-prevention** is part of the Zion Tech Group app network (630+ apps).
+Real-time fraud detection and prevention with adaptive machine learning.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Security & Compliance](https://github.com/Zion-support/zion-network/blob/main/network/security-compliance.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [zion-ai-fraud-detection](https://github.com/Zion-support/zion-ai-fraud-detection) · [zion-fraud-detection](https://github.com/Zion-support/zion-fraud-detection) · [ai-banking-platform](https://github.com/Zion-support/ai-banking-platform) · [ai-crypto-tracker](https://github.com/Zion-support/ai-crypto-tracker) · [cost-anomaly-detector](https://github.com/Zion-support/cost-anomaly-detector)
 
-## Related apps
-- [zion-fraud-detection](https://github.com/Zion-support/zion-fraud-detection) — AI fraud detection
-- [zion-ai-fraud-detection](https://github.com/Zion-support/zion-ai-fraud-detection) — Fraud detection app
-- [ai-cybersecurity-hub](https://github.com/Zion-support/ai-cybersecurity-hub) — Threat detection and response
-- [ai-deepfake-detector](https://github.com/Zion-support/ai-deepfake-detector) — Deepfake detection
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
